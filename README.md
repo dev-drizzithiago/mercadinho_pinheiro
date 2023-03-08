@@ -1,2 +1,3 @@
 # mercadinho_pinheiro
- Primeiro repositorio versionado
+ Repositório criado em aula de GIT e GITHUB 
+ 
